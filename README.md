@@ -4,7 +4,7 @@
  
 https://github.com/Mehrsa-Mohajeri-Developer/Solar_System_Trick13/assets/145048780/300692bf-5413-456e-a8b1-a9fc32d6b05b
 
-- 🔗 [Demo Project](https://mehrsa-mohajeri-developer.github.io/Solar_System_Trick13/)
+- 🔗 [Demo Project](https://mehrsamohajeri.github.io/Solar_System_Trick13/)
   
 - 👩🏻‍💻 Developed by Mehrsa Mohajeri
 
